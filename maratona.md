@@ -14,4 +14,5 @@ Esta é a minha seleção de filmes essenciais.
 - [ ] A Viagem de Chihiro
 - [ ] O Labirinto do Fauno
 - [ ] O Hobbit
-- [ ] 50 tons de Cinza
+- [ ] Velozes e Furiosos
+
