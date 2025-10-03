@@ -15,4 +15,6 @@ Esta é a minha seleção de filmes essenciais.
 - [ ] O Labirinto do Fauno
 - [ ] The Batman
 - [ ] Velozes e Furiosos
+- [ ] Lavagirl e SharkBoy 
+- [ ] The Et
 
