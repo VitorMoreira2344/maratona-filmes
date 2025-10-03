@@ -13,5 +13,8 @@ Esta é a minha seleção de filmes essenciais.
 - [ ] O Senhor dos Anéis: A Sociedade do Anel
 - [ ] A Viagem de Chihiro
 - [ ] O Labirinto do Fauno
+- [ ] The Batman
+- [ ] Velozes e Furiosos
 - [ ] Lavagirl e SharkBoy 
 - [ ] The Et
+
